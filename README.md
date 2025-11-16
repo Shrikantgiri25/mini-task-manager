@@ -511,7 +511,3 @@ docker ps -a
 # Remove unused Docker resources
 docker system prune -a
 ```
-
----
-
-**Made with ❤️ using React & Django**
