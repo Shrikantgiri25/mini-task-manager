@@ -2,7 +2,6 @@
 
 A full-stack task management application with user authentication, built with React and Django REST Framework.
 
-![Task Manager Screenshot](screenshot.png)
 
 ## ✨ Features
 
@@ -149,6 +148,4 @@ docker-compose logs -f
 
 # Remove volumes
 docker-compose down -v
-```
-
 ```
